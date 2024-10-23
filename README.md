@@ -8,6 +8,7 @@
 - **Pós-Graduação em Marketing, Branding e Growth** [PUC-RS](https://online.pucrs.br/mba/marketing-branding-e-growth)
 - **Pós-Graduação em Desenvolvimento Full-stack** [PUC-RS](https://online.pucrs.br/pos-graduacao/desenvolvimento-full-stack)
 - **Certificação em Product Design** [Cubos.Academy](https://cubos.academy/cursos/product-design)
+- **Certificação em Product Design** [PM3](https://www.cursospm3.com.br/curso-product-design/)
 
 Como engenheiro front-end, sou especializado em criar interfaces envolventes, intuitivas e de alta performance. Meu foco principal está no desenvolvimento de **Landing Pages para Lançamentos**, **Sites Institucionais**, e na criação de experiências digitais que maximizam conversões, sempre com foco no usuário e nas melhores práticas de **UI/UX Design**.
 
