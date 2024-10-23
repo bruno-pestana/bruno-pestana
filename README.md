@@ -1,4 +1,4 @@
-# 👨‍💻 [Seu Nome] - Engenheiro Front-End
+# 👨‍💻 [Bruno Pestana] - Engenheiro Front-End
 
 ### Especialista em Interfaces, UI/UX Design e Growth Marketing
 
