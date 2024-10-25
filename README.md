@@ -1,1 +1,1 @@
-# Hello There! :godmode:
+# Hello There
